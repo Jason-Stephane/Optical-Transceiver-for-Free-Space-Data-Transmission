@@ -1,5 +1,6 @@
 # Optical-Transceiver-for-Free-Space-Data-Transmission
 🗓️ Timeline: Spring 2026 (Jan 2026 - May 2026) | Course: Junior Design Project
+
 This repository contains the firmware and data processing stack for a custom Free-Space Optical (FSO) communication system. It establishes a hardware-software link utilizing ARM Cortex-M microcontrollers and MATLAB to accurately transmit digital data over a beam of light.
 
 ## 🚀 Features
